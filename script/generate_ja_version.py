@@ -14,7 +14,7 @@ CONTENT_DIR = os.path.join(BASE_DIR, 'app', 'content')
 load_dotenv()
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 # 高性能モデルを使用 (gemini-1.5-flash-latest)
-model = genai.GenerativeModel("gemini-1.5-flash-latest")
+model = genai.GenerativeModel("gemini-flash-latest")
 
 # カテゴリの日本語マッピング
 CAT_MAP_JA = {
