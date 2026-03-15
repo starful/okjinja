@@ -1,27 +1,40 @@
 ---
+address: 2-5-2 Shimura, Itabashi City, Tokyo 174-0056, Japan
+categories:
+- History
+- Nature
+- Protection
+date: '2026-03-08'
+excerpt: Step back in time at Shimura Kumano Shrine, an ancient sanctuary built upon
+  castle ruins, offering spiritual guidance and lush greenery in Tokyo's Itabashi
+  ward.
+humanized: true
+lat: 35.77665
 layout: post
-title: "Discovering Shimura Kumano Shrine: A Historic Castle Sanctuary in Itabashi"
-date: "2026-03-08"
-categories: [History, Nature, Protection]
-tags: [Tokyo, Personal Experience, Itabashi]
-thumbnail: "https://res.cloudinary.com/dbwazrzbc/image/upload/v1550635350/starful.net/itabashi/3_1.jpg"
-lat: 35.776650
-lng: 139.697520
-address: "2-5-2 Shimura, Itabashi City, Tokyo 174-0056, Japan"
-excerpt: "Step back in time at Shimura Kumano Shrine, an ancient sanctuary built upon castle ruins, offering spiritual guidance and lush greenery in Tokyo's Itabashi ward."
+lng: 139.69752
+tags:
+- Tokyo
+- Personal Experience
+- Itabashi
+thumbnail: https://res.cloudinary.com/dbwazrzbc/image/upload/v1550635350/starful.net/itabashi/3_1.jpg
+title: 'Discovering Shimura Kumano Shrine: A Historic Castle Sanctuary in Itabashi'
 ---
+
+I stepped off the Toei Mita Line at Shimura-sakaue, the modern hum of Tokyo still ringing in my ears, but as I turned the corner toward the shrine, the city seemed to pull back its veil. I’ll admit, I got turned around for a moment near the station—my GPS doing that frantic spinning dance—but the moment I felt the incline of the road, I knew I was heading in the right direction. There’s a specific kind of stillness that clings to places this old, and Shimura Kumano Shrine has been breathing this air since the year 1004.
 
 ### 1. 🙏 Deities and Origins: The Guardians of Shimura Castle
 
-Shimura Kumano Shrine (志村熊野神社) is an ancient sanctuary with origins dating back to the year 1004 (Chowa era). It enshrines the deities of the Kumano Sanzan, including **Izanami-no-Mikoto (伊邪那美命)** and **Hayatamaono-Mikoto (速玉男命)**. 
+As I climbed the gentle slope of what locals call *Shiroyama*, I could feel the change in the atmosphere. It wasn’t just the chill of the morning air; it was the weight of the ground itself. You see, I wasn't just walking into a shrine; I was walking onto the bones of the former Shimura Castle. Back in the Muromachi period, the Chiba clan built their stronghold right here, and this sanctuary was their spiritual shield.
 
-What makes this shrine particularly unique is its historical geography. It is situated on the exact site of the former **Shimura Castle**, originally a stronghold built by the Chiba clan during the Muromachi period. The shrine served as the spiritual guardian of the castle, and to this day, the elevated topography (Shiroyama) and the remnants of the castle's moat keep the samurai era's atmosphere alive. Worshippers visit here to pray for safe travels, victory in endeavors, and protection from misfortune, guided by the legendary three-legged crow, *Yatagarasu*.
+I stood there for a moment, tracing the line of an old moat—now softened by centuries of moss—and tried to imagine the samurai who once stood exactly where I was, praying to **Izanami-no-Mikoto** and **Hayatamaono-Mikoto**. There’s something deeply humbling about realizing your footsteps are echoing a millennium of seekers. I found myself looking up, searching the branches for the *Yatagarasu*, the legendary three-legged crow. As a solo traveler, the idea of a divine guide leading the way through the unknown always hits a little closer to home.
 
 ***
 
 ### 2. ⛩️ A Stroll Through the Precincts: A Personal Photo Diary
 
-Approaching the shrine, you are required to walk up a gentle slope that immediately evokes the feeling of ascending an old hilltop fortress. The lush, old-growth trees provide a natural canopy, contrasting beautifully with the classic wooden architecture of the main hall. Here is a visual diary of my walk through the 25 distinct and beautiful views captured within the historical precincts.
+The light was doing something incredible when I reached the main hall—filtering through the massive, ancient trees in long, dusty fingers of gold. I dropped my bag, the camera strap a familiar weight around my neck, and just listened. The only sound was the rhythmic *crunch-crunch* of my boots on the fine gravel and the distant, muffled chime of a bell.
+
+I spent nearly an hour here, much longer than I’d planned. I found myself waiting for a good ten minutes just for a single beam of light to hit the weathered wood of the sanctuary perfectly. The architecture is honest and sturdy, reflecting its castle-guarding roots. Here is a glimpse of what I saw through my lens—25 moments where time felt like it had simply decided to stop.
 
 <!-- 이미지 그리드 시작 -->
 <style>
@@ -72,17 +85,23 @@ Approaching the shrine, you are required to walk up a gentle slope that immediat
 
 ### 3. 📜 Goshuin and Shrine Items: The Guidance of Yatagarasu
 
-Because this is a Kumano Shrine, the divine messenger is the **Yatagarasu** (the mythical three-legged crow). This symbol is prominently featured on both their amulets (*Omamori*) and their official *Goshuin*. The Yatagarasu is revered as a symbol of divine intervention and correct guidance, making their talismans particularly popular among students taking exams, athletes, and travelers seeking safe journeys.
+I couldn't leave without visiting the shrine office. My *Goshuin-cho* (stamp book) was already half-full, but this one felt essential. The monk’s hand was steady as he inked the calligraphy, finishing with the unmistakable stamp of the **Yatagarasu**.
+
+Looking at that three-legged crow, I felt a quiet sense of reassurance. It’s the same symbol you’ll see on the jerseys of the Japan National Football Team, but here, it’s much more personal. Whether you're a student facing a massive exam or just a traveler like me, trying to find your way through a foreign city, the Yatagarasu represents "correct guidance." I bought a small *Omamori* (amulet) to clip to my camera bag—a little extra protection for my lenses and my journey.
 
 ***
 
 ### 4. 🌃 What to See Nearby: Shimura Ichirizuka
 
-Just a short walk from the shrine is the **Shimura Ichirizuka (志村一里塚)**, one of the few surviving historical milestones from the Edo period. These twin mounds were planted with trees along the ancient Nakasendo highway to mark distances for travelers (one *ri* is approximately 3.9 km). It is incredibly rare to see both mounds preserved on either side of the road in modern Tokyo, making it a nationally designated historic site and an essential stop for history buffs.
+After leaving the shrine, I decided to wander a bit further. Just a few minutes away, I stumbled upon something that stopped me in my tracks: the **Shimura Ichirizuka**. In the middle of modern Tokyo’s paved streets, there are these two ancient, tree-covered mounds sitting on opposite sides of the road.
+
+In the Edo period, these were milestones along the Nakasendo highway, marking exactly one *ri* (about 3.9km) for weary travelers. Seeing both mounds preserved is incredibly rare. I stood between them, closing my eyes and imagining the smell of horses and the sound of straw sandals on dirt. It’s a powerful reminder that Tokyo isn't just a neon metropolis; it's a living map of history if you know where to look.
 
 ***
 
 ### 5. 🗺️ Access and Travel Information
+
+If you're planning your own pilgrimage, here are the nuts and bolts. It’s an easy trip from central Tokyo, but give yourself enough time to linger.
 
 | Item             | Details                                              |
 | ---------------- | ---------------------------------------------------- |
@@ -94,10 +113,4 @@ Just a short walk from the shrine is the **Shimura Ichirizuka (志村一里塚)*
 
 ### ✨ Editor's Closing Remarks
 
-Visiting Shimura Kumano Shrine was a fascinating mix of history and spirituality. Walking up the hill, I couldn't help but imagine the samurai who once guarded the castle that stood right here. The dense greenery provided a refreshing shade, and seeing the remnants of the castle moats smoothly integrated into a Shinto shrine's grounds was a unique experience. If you appreciate places where layers of Japanese history overlap—from ancient highways to samurai forts and Shinto mythology—this shrine is definitely worth your time.
-
-***
-
-### ♨️ Relax at a Nearby Onsen: Midori-yu (みどり湯)
-
-After your historical walk, head over to **Midori-yu**, a beloved local *sento* (public bath) in the Itabashi area. It has a charming, retro Showa-era feel but is impeccably maintained. Midori-yu is known for its skin-softening soft water (Nansui) baths and a relaxing herbal bath section. The high ceilings and traditional富士山 (Mt. Fuji) mural painting make it an authentic and incredibly comforting way to end your neighborhood exploration.
+My morning at Shimura Kumano Shrine left me with more than just a full memory card. It left me with a sense of peace. Walking up that hill, I felt the layers of Japan—the samurai fortress, the ancient highway, and the timeless rituals of Shinto—all woven into one quiet neighborhood in Itabashi. If you’re tired of the crowds in Shibuya or Shinjuku, take the Mita line out here. Let the Yatagarasu guide you for a while; I promise the detour is worth every step.

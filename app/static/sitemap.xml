@@ -1,2594 +1,494 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/</loc>
-    <lastmod>2026-03-08</lastmod>
+    <loc>https://okjinja.com/</loc>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/akatsuka_suwa_shrine</loc>
+    <loc>https://okjinja.com/shrine/akatsuka_suwa_shrine</loc>
     <lastmod>2026-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/tokiwadai_tenso_shrine</loc>
+    <loc>https://okjinja.com/shrine/tokumaru_kitano_shrine_ko</loc>
     <lastmod>2026-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/maenocho_kumano_shrine</loc>
+    <loc>https://okjinja.com/shrine/kami_itabashi_tenso_shrine_ja</loc>
     <lastmod>2026-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/shimura_kumano_shrine</loc>
+    <loc>https://okjinja.com/shrine/tokiwadai_tenso_shrine</loc>
     <lastmod>2026-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/shimizu_inari_shrine</loc>
+    <loc>https://okjinja.com/shrine/tokiwadai_tenso_shrine_ja</loc>
     <lastmod>2026-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kami_itabashi_tenso_shrine</loc>
+    <loc>https://okjinja.com/shrine/azusawa_shrine_ja</loc>
     <lastmod>2026-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/azusawa_shrine</loc>
+    <loc>https://okjinja.com/shrine/itabashi_hikawa_shrine_ko</loc>
     <lastmod>2026-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/akatsuka_hikawa_shrine</loc>
+    <loc>https://okjinja.com/shrine/maenocho_kumano_shrine</loc>
     <lastmod>2026-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hasunuma_hikawa_shrine</loc>
+    <loc>https://okjinja.com/shrine/shimura_kumano_shrine</loc>
     <lastmod>2026-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/futabacho_hikawa_shrine</loc>
+    <loc>https://okjinja.com/shrine/akatsuka_hikawa_shrine_ja</loc>
     <lastmod>2026-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/itabashi_hikawa_shrine</loc>
+    <loc>https://okjinja.com/shrine/maenocho_kumano_shrine_ja</loc>
     <lastmod>2026-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kumanocho_kumano_shrine</loc>
+    <loc>https://okjinja.com/shrine/tokiwadai_tenso_shrine_ko</loc>
     <lastmod>2026-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/tokumaru_kitano_shrine</loc>
+    <loc>https://okjinja.com/shrine/shimizu_inari_shrine</loc>
     <lastmod>2026-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/namayoke_inari_shrine_ja</loc>
+    <loc>https://okjinja.com/shrine/kami_itabashi_tenso_shrine</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/kami_itabashi_tenso_shrine_ko</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/tokumaru_kitano_shrine_ja</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/azusawa_shrine</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/akatsuka_hikawa_shrine</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/akatsuka_hikawa_shrine_ko</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/hasunuma_hikawa_shrine</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/maenocho_kumano_shrine_ko</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/futabacho_hikawa_shrine</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/azusawa_shrine_ko</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/itabashi_hikawa_shrine_ja</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/kumanocho_kumano_shrine_ko</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/shimizu_inari_shrine_ja</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/shimura_kumano_shrine_ko</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/itabashi_hikawa_shrine</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/futabacho_hikawa_shrine_ja</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/kumanocho_kumano_shrine</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/hasunuma_hikawa_shrine_ja</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/akatsuka_suwa_shrine_ko</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/shimura_kumano_shrine_ja</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/shimizu_inari_shrine_ko</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/kumanocho_kumano_shrine_ja</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/hasunuma_hikawa_shrine_ko</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/tokumaru_kitano_shrine</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/akatsuka_suwa_shrine_ja</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/futabacho_hikawa_shrine_ko</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://okjinja.com/shrine/Matsushima_hakusan_shrine</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/tsukuda_sumiyoshi_shrine_ja</loc>
+    <loc>https://okjinja.com/shrine/namayoke_inari_shrine_ja</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/Matsushima Hakusan Shrine</loc>
+    <loc>https://okjinja.com/shrine/tsukuda_sumiyoshi_shrine_ja</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nihonbashi_suehiro_shrine_ko</loc>
+    <loc>https://okjinja.com/shrine/nihonbashi_suehiro_shrine_ko</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/tsukuda_sumiyoshi_shrine</loc>
+    <loc>https://okjinja.com/shrine/tsukuda_sumiyoshi_shrine</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nihonbashi_suehiro_shrine_ja</loc>
+    <loc>https://okjinja.com/shrine/nihonbashi_suehiro_shrine_ja</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/tsukuda_sumiyoshi_shrine_ko</loc>
+    <loc>https://okjinja.com/shrine/tsukuda_sumiyoshi_shrine_ko</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/namayoke_inari_shrine_ko</loc>
+    <loc>https://okjinja.com/shrine/namayoke_inari_shrine_ko</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/Matsushima Hakusan Shrine_ja</loc>
+    <loc>https://okjinja.com/shrine/Matsushima_hakusan_shrine_ko</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nagahisa_inari_shrine_ja</loc>
+    <loc>https://okjinja.com/shrine/nagahisa_inari_shrine_ja</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/oiwa_inari_tamiya_shrine</loc>
+    <loc>https://okjinja.com/shrine/oiwa_inari_tamiya_shrine</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/koami_shrine_ja</loc>
+    <loc>https://okjinja.com/shrine/nagahisa_inari_shrine</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nagahisa_inari_shrine</loc>
+    <loc>https://okjinja.com/shrine/oiwa_inari_tamiya_shrine_ja</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/oiwa_inari_tamiya_shrine_ja</loc>
+    <loc>https://okjinja.com/shrine/nagahisa_inari_shrine_ko</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/teppozu_inari_shrine</loc>
+    <loc>https://okjinja.com/shrine/namayoke_inari_shrine</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/teppozu_inari_shrine_ko</loc>
+    <loc>https://okjinja.com/shrine/Matsushima_hakusan_shrine_ja</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nagahisa_inari_shrine_ko</loc>
+    <loc>https://okjinja.com/shrine/oiwa_inari_tamiya_shrine_ko</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/Matsushima Hakusan Shrine_ko</loc>
+    <loc>https://okjinja.com/shrine/nihonbashi_suehiro_shrine</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/namayoke_inari_shrine</loc>
-    <lastmod>2026-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/teppozu_inari_shrine_ja</loc>
-    <lastmod>2026-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/koami_shrine_ko</loc>
-    <lastmod>2026-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/koami_shrine</loc>
-    <lastmod>2026-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/oiwa_inari_tamiya_shrine_ko</loc>
-    <lastmod>2026-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nihonbashi_suehiro_shrine</loc>
-    <lastmod>2026-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/shinozaki_sengen_shrine</loc>
+    <loc>https://okjinja.com/shrine/shinozaki_sengen_shrine</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nishi_komatsugawa_tenso_shrine_ja</loc>
+    <loc>https://okjinja.com/shrine/nishi_komatsugawa_tenso_shrine_ja</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/shinozaki_sengen_shrine_ko</loc>
+    <loc>https://okjinja.com/shrine/shinozaki_sengen_shrine_ko</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/higashi_kasai_katori_shrine_ko</loc>
+    <loc>https://okjinja.com/shrine/higashi_kasai_katori_shrine_ko</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kamishinozaki_asama_shrine_ko</loc>
+    <loc>https://okjinja.com/shrine/kamishinozaki_asama_shrine_ko</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kitakasai_inari_shrine_ko</loc>
+    <loc>https://okjinja.com/shrine/kitakasai_inari_shrine_ko</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/omiya_hachiman_shrine</loc>
+    <loc>https://okjinja.com/shrine/omiya_hachiman_shrine</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/chuo_katori_shrine</loc>
+    <loc>https://okjinja.com/shrine/chuo_katori_shrine</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nishi_komatsugawa_tenso_shrine_ko</loc>
+    <loc>https://okjinja.com/shrine/nishi_komatsugawa_tenso_shrine_ko</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nishi_komatsugawa_tenso_shrine</loc>
+    <loc>https://okjinja.com/shrine/nishi_komatsugawa_tenso_shrine</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kamishinozaki_asama_shrine_ja</loc>
+    <loc>https://okjinja.com/shrine/kamishinozaki_asama_shrine_ja</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kitakasai_inari_shrine_ja</loc>
+    <loc>https://okjinja.com/shrine/kitakasai_inari_shrine_ja</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/shinozaki_sengen_shrine_ja</loc>
+    <loc>https://okjinja.com/shrine/shinozaki_sengen_shrine_ja</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/higashi_kasai_katori_shrine_ja</loc>
+    <loc>https://okjinja.com/shrine/higashi_kasai_katori_shrine_ja</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kamishinozaki_asama_shrine</loc>
+    <loc>https://okjinja.com/shrine/kamishinozaki_asama_shrine</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/chuo_katori_shrine_ja</loc>
+    <loc>https://okjinja.com/shrine/chuo_katori_shrine_ja</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/omiya_hachiman_shrine_ko</loc>
+    <loc>https://okjinja.com/shrine/omiya_hachiman_shrine_ko</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kitakasai_inari_shrine</loc>
+    <loc>https://okjinja.com/shrine/kitakasai_inari_shrine</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/higashi_kasai_katori_shrine</loc>
+    <loc>https://okjinja.com/shrine/higashi_kasai_katori_shrine</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/chuo_katori_shrine_ko</loc>
+    <loc>https://okjinja.com/shrine/chuo_katori_shrine_ko</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/omiya_hachiman_shrine_ja</loc>
+    <loc>https://okjinja.com/shrine/omiya_hachiman_shrine_ja</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/higashi_kasai_tenso_shrine_ja</loc>
+    <loc>https://okjinja.com/shrine/higashi_kasai_tenso_shrine_ja</loc>
     <lastmod>2026-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/higashi_kasai_tenso_shrine_ko</loc>
+    <loc>https://okjinja.com/shrine/higashi_kasai_tenso_shrine_ko</loc>
     <lastmod>2026-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/higashi_kasai_tenso_shrine</loc>
+    <loc>https://okjinja.com/shrine/higashi_kasai_tenso_shrine</loc>
     <lastmod>2026-01-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kibitsuhiko_ja</loc>
-    <lastmod>2025-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/samukawa_ko</loc>
-    <lastmod>2025-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kehi_jingu_shrine_ja</loc>
-    <lastmod>2025-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/samukawa</loc>
-    <lastmod>2025-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kehi_jingu_shrine</loc>
-    <lastmod>2025-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/namba</loc>
-    <lastmod>2025-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kibitsuhiko</loc>
-    <lastmod>2025-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kibitsuhiko_ko</loc>
-    <lastmod>2025-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kehi_jingu_shrine_ko</loc>
-    <lastmod>2025-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/samukawa_ja</loc>
-    <lastmod>2025-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/minatogawa_ko</loc>
-    <lastmod>2025-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/namba_ko</loc>
-    <lastmod>2025-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/minatogawa_ja</loc>
-    <lastmod>2025-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/minatogawa</loc>
-    <lastmod>2025-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/namba_ja</loc>
-    <lastmod>2025-12-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hiyoshi_taisha_shrine_ja</loc>
-    <lastmod>2025-12-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kamigamo_jinja_shrine_ja</loc>
-    <lastmod>2025-12-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kamigamo_jinja_shrine_ko</loc>
-    <lastmod>2025-12-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hiyoshi_taisha_shrine_ko</loc>
-    <lastmod>2025-12-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/suwa_taisha_kamisha_honmiya_ja</loc>
-    <lastmod>2025-12-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/suwa_taisha_kamisha_honmiya</loc>
-    <lastmod>2025-12-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hiyoshi_taisha_shrine</loc>
-    <lastmod>2025-12-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kamigamo_jinja_shrine</loc>
-    <lastmod>2025-12-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/suwa_taisha_kamisha_honmiya_ko</loc>
-    <lastmod>2025-12-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/takeo_shrine_saga_ja</loc>
-    <lastmod>2025-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/oarai_isosaki_shrine_ja</loc>
-    <lastmod>2025-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/oarai_isosaki_shrine</loc>
-    <lastmod>2025-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/takeo_shrine_saga_ko</loc>
-    <lastmod>2025-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/oarai_isosaki_shrine_ko</loc>
-    <lastmod>2025-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/takeo_shrine_saga</loc>
-    <lastmod>2025-12-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/meiji_jingu</loc>
-    <lastmod>2025-12-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/meiji_jingu_ko</loc>
-    <lastmod>2025-12-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/meiji_jingu_ja</loc>
-    <lastmod>2025-12-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/asahikawa_shrine_ja</loc>
-    <lastmod>2025-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nikko_toshogu</loc>
-    <lastmod>2025-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/fushimi_inari</loc>
-    <lastmod>2025-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/asahikawa_shrine</loc>
-    <lastmod>2025-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/fujisan_hongu_sengen_taisha</loc>
-    <lastmod>2025-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/shirayamahime_shrine</loc>
-    <lastmod>2025-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/obihiro_shrine</loc>
-    <lastmod>2025-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/asahikawa_shrine_ko</loc>
-    <lastmod>2025-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/fujisan_hongu_sengen_taisha_ko</loc>
-    <lastmod>2025-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/shirayamahime_shrine_ko</loc>
-    <lastmod>2025-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/obihiro_shrine_ja</loc>
-    <lastmod>2025-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/fushimi_inari_ko</loc>
-    <lastmod>2025-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nikko_toshogu_ja</loc>
-    <lastmod>2025-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/fushimi_inari_ja</loc>
-    <lastmod>2025-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/obihiro_shrine_ko</loc>
-    <lastmod>2025-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/fujisan_hongu_sengen_taisha_ja</loc>
-    <lastmod>2025-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/shirayamahime_shrine_ja</loc>
-    <lastmod>2025-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nikko_toshogu_ko</loc>
-    <lastmod>2025-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yoshida_shrine_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/ise_jingu_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/tsurugaoka_hachimangu_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kawasaki_daishi_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hokkaido_jingu</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/sumiyoshi_taisha_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hakodate_hachimangu_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/ooyamazumi_shrine_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/dewa_sanzan</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kumano_nachi_taisha_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/seimei_shrine</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kotohiragu</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/togo_shrine_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hokkaido_jingu_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/togakushi_shrine</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/suga_shrine_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/katori_shrine</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/senso_ji</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/oomiwa_shrine_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yushima_tenmangu</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/itsukushima_shrine</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kitano_tenmangu_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/shiogama_shrine_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/seimei_shrine_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/senso_ji_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kanda_myoujin_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nogi_shrine_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hokoku_shrine_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kumano_nachi_taisha</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/itsukushima_shrine_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nezu_shrine_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/dewa_sanzan_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kasuga_taisha_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hofu_tenmangu_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/sanoyakuyoke_daishi_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/ikuta_shrine_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/oomiwa_shrine_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hofu_tenmangu</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yutoku_inari_shrine</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hokkaido_jingu_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/ise_jingu</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/togo_shrine_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/suga_shrine_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kawasaki_daishi</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kumano_nachi_taisha_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/ooyamazumi_shrine</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nogi_shrine</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yoshida_shrine_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/tsurugaoka_hachimangu_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/ise_jingu_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kawasaki_daishi_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/sumiyoshi_taisha_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hakodate_hachimangu_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/ooyamazumi_shrine_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nezu_shrine</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hofu_tenmangu_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kanda_myoujin</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/sanoyakuyoke_daishi_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/ikuta_shrine_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/itsukushima_shrine_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nezu_shrine_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/dewa_sanzan_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kasuga_taisha_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/suga_shrine</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/senso_ji_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kanda_myoujin_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/naritasan_shinshoji</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nogi_shrine_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hokoku_shrine_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kitano_tenmangu_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/shiogama_shrine_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/seimei_shrine_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/oomiwa_shrine</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/usa_jingu_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/togo_shrine</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/atsuta_jingu</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/aso_shrine_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/atsuta_jingu_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/aso_shrine</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/heian_jingu_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/katori_shrine_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/naritasan_shinshoji_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kasuga_taisha</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/shiogama_shrine</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/ikuta_shrine</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/sumiyoshi_taisha</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/tsurugaoka_hachimangu</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kiyomizu_dera_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kotohiragu_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kitano_tenmangu</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/togakushi_shrine_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/heian_jingu</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yutoku_inari_shrine_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yasui_konpiragu_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yushima_tenmangu_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/heian_jingu_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/aso_shrine_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/atsuta_jingu_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/usa_jingu</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/usa_jingu_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/sanoyakuyoke_daishi</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yutoku_inari_shrine_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yasui_konpiragu</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yasui_konpiragu_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yushima_tenmangu_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kiyomizu_dera_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kotohiragu_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/togakushi_shrine_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hakodate_hachimangu</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yoshida_shrine</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kiyomizu_dera</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/katori_shrine_ko</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/naritasan_shinshoji_ja</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hokoku_shrine</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/izumo_taisha_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hie_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/motonosumi</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/koinoki_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/ootori_taisha_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/keta_taisha_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yahiko_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kirishima_jingu_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/munakata_taisha_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/futarasan_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hirota_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/tsukubasan_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kokura_yasaka_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/jishu_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nishinomiya_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/izumo_taisha</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/miho_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hakone_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yasaka_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/munakata_taisha</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/dazaifu_tenmangu_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/anamori_inari_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/motonosumi_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/motonosumi_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/takachiho_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/tamatsukuri_inari_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/chiyohoinari_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kumano_hongu_taisha</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/tokyo_daijingu_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/toyokawa_inari</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/jishu_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/tsukubasan_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kokura_yasaka_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/jishu_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nishinomiya_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/miho_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/munakata_taisha_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hirota_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/futarasan_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/tamasaki_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/tsukubasan_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/ootori_taisha_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/keta_taisha_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hakone_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kirishima_jingu_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/imamiya_ebisu_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/izumo_taisha_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hie_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/koinoki_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kashima_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hie_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/chiyohoinari_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/tokyo_daijingu_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/shimogamo_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/motonosumi_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/motonosumi_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/takachiho_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/zeniarai_benten</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/tamatsukuri_inari_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hakone_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yasaka_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/dazaifu_tenmangu_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/anamori_inari_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/keta_taisha</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hakozakigu</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/takachiho_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kifune_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nonomiya_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kokura_yasaka_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kuzuryu_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/toyokawa_inari_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/ootori_taisha</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/dazaifu_tenmangu</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/chogosonshiji_temple_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/koinoki_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/oosaki_hachimangu_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/osaka_ohatsutenjin</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kawagoe_hikawa_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kuzuryu_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/udo_jingu</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/osaka_ohatsutenjin_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/tamasaki_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/anamori_inari</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/aoshima_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/chogosonshiji_temple</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kawagoe_hikawa_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kumano_hongu_taisha_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/miho_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yasaka_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kashima_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/oosaki_hachimangu</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/zeniarai_benten_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yoshino_jingu_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/aoshima_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/takase_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hakozakigu_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/takase_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yahiko_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/imamiya_ebisu_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yoshino_jingu</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nonomiya_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/udo_jingu_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kumano_taisha_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/isaniwa_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/shimogamo_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hikawa_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kuzuryu_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/motonosumi_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/osaka_ohatsutenjin_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/tamasaki_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/tamatsukuri_inari_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hikawa_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/aoshima_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kawagoe_hikawa_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/chogosonshiji_temple_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/futarasan_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/oosaki_hachimangu_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kifune_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nonomiya_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/tokyo_daijingu</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/toyokawa_inari_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kumano_taisha_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/isaniwa_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/shimogamo_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hikawa_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/isaniwa_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yahiko_shrine_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/imamiya_ebisu_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kumano_taisha</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/udo_jingu_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/zeniarai_benten_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/yoshino_jingu_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kirishima_jingu</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/nishinomiya_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hirota_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/takase_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hakozakigu_ko</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/chiyohoinari_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kumano_hongu_taisha_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kashima_shrine_ja</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kifune_shrine</loc>
-    <lastmod>2025-12-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kasama_omamori_fox</loc>
-    <lastmod>2025-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/takahashi_inari_shrine_ja</loc>
-    <lastmod>2025-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kibitsu_shrine_ja</loc>
-    <lastmod>2025-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kasama_omamori_fox_ja</loc>
-    <lastmod>2025-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kasama_inari_shrine</loc>
-    <lastmod>2025-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/takahashi_inari_shrine_ko</loc>
-    <lastmod>2025-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kasama_omamori_fox_ko</loc>
-    <lastmod>2025-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kibitsu_shrine_ko</loc>
-    <lastmod>2025-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/akita_suwa_shrine_ko</loc>
-    <lastmod>2025-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/akita_suwa_shrine</loc>
-    <lastmod>2025-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kasama_inari_shrine_ja</loc>
-    <lastmod>2025-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/saijo_inari_ja</loc>
-    <lastmod>2025-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/takahashi_inari_shrine</loc>
-    <lastmod>2025-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kasama_inari_shrine_ko</loc>
-    <lastmod>2025-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/akita_suwa_shrine_ja</loc>
-    <lastmod>2025-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kibitsu_shrine</loc>
-    <lastmod>2025-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/saijo_inari</loc>
-    <lastmod>2025-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/saijo_inari_ko</loc>
-    <lastmod>2025-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kinkasan_koganeyama_ko</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/daikokushu_shrine</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/iwakuni_shirohebi_shrine_ko</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/toyokawa_main_gate</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/shinagawa_shrine</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/daikokushu_shrine_ko</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/koami_jinja_ko</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/sakatsura_isosaki_shrine_ko</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hoto_shrine</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kinkasan_koganeyama_ja</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/iwakuni_shirohebi_shrine_ja</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/koami_jinja_ja</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/sakatsura_isosaki_shrine_ja</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/daikokushu_shrine_ja</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/akasaka_hikawa_shrine</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/imado_shrine</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/koami_jinja</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/akasaka_hikawa_shrine_ko</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/imado_shrine_ja</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/toyokawa_main_gate_ja</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/shinagawa_shrine_ko</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hoto_shrine_ko</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/sakatsura_isosaki_shrine</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/iwakuni_shirohebi_shrine</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kinkasan_koganeyama</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kogane_shrine_ja</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/hoto_shrine_ja</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/shinagawa_shrine_ja</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/akasaka_hikawa_shrine_ja</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/imado_shrine_ko</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/toyokawa_main_gate_ko</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kogane_shrine</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kogane_shrine_ko</loc>
-    <lastmod>2025-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/arakura_fuji_sengen_shrine</loc>
-    <lastmod>2025-11-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/arakura_fuji_sengen_shrine_ja</loc>
-    <lastmod>2025-11-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kanemochi_shrine</loc>
-    <lastmod>2024-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kanemochi_shrine_ja</loc>
-    <lastmod>2024-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/juban_inari_shrine_ja</loc>
-    <lastmod>2024-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kanemochi_shrine_ko</loc>
-    <lastmod>2024-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/araya_yama_shrine_ja</loc>
-    <lastmod>2024-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/araya_yama_shrine_ko</loc>
-    <lastmod>2024-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/juban_inari_shrine</loc>
-    <lastmod>2024-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/araya_yama_shrine</loc>
-    <lastmod>2024-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kinkasan_main</loc>
-    <lastmod>2023-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kinkasan_main_ko</loc>
-    <lastmod>2023-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://okjinja-350108786002.us-central1.run.app/shrine/kinkasan_main_ja</loc>
-    <lastmod>2023-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

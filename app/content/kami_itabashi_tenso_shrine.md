@@ -1,27 +1,39 @@
 ---
+address: 4-32 Minamikamiitabashi, Itabashi City, Tokyo 174-0076, Japan
+categories:
+- Nature
+- Peace
+- History
+date: '2026-03-08'
+excerpt: Wander into Kami-Itabashi Tenso Shrine, a serene, tree-lined sanctuary dedicated
+  to the sun goddess, deeply loved by the local community for centuries.
+humanized: true
+lat: 35.7615
 layout: post
-title: "Kami-Itabashi Tenso Shrine: A Golden Ginkgo Oasis in the Heart of Tokyo"
-date: "2026-03-08"
-categories: [Nature, Peace, History]
-tags: [Tokyo, Personal Experience, Itabashi]
-thumbnail: "https://res.cloudinary.com/dbwazrzbc/image/upload/v1550635350/starful.net/itabashi/9_1.jpg"
-lat: 35.761500
-lng: 139.678300
-address: "4-32 Minamikamiitabashi, Itabashi City, Tokyo 174-0076, Japan"
-excerpt: "Wander into Kami-Itabashi Tenso Shrine, a serene, tree-lined sanctuary dedicated to the sun goddess, deeply loved by the local community for centuries."
+lng: 139.6783
+tags:
+- Tokyo
+- Personal Experience
+- Itabashi
+thumbnail: https://res.cloudinary.com/dbwazrzbc/image/upload/v1550635350/starful.net/itabashi/9_1.jpg
+title: 'Kami-Itabashi Tenso Shrine: A Golden Ginkgo Oasis in the Heart of Tokyo'
 ---
+
+The morning air in Itabashi had a certain bite to it, the kind of crisp chill that makes you pull your scarf a little tighter and appreciate the weight of a camera hanging against your chest. I’ll admit, I got turned around twice coming from the station—taking a confident but very wrong left past a small bakery—but that’s usually how I find the best spots. Eventually, the modern hum of the city began to fade, replaced by a deep, expectant silence. I had found it: Kami-Itabashi Tenso Shrine.
 
 ### 1. 🙏 Deities and Origins: The Sun Goddess of the Old Village
 
-Kami-Itabashi Tenso Shrine (上板橋天祖神社) holds a deep and storied place in the hearts of the local community. It is dedicated to **Amaterasu-Omikami (天照皇大御神)**, the Shinto sun goddess and the supreme deity of the Japanese pantheon. 
+As I stood before the entrance, I felt a strange sense of stepping backward through time. This isn’t just a neighborhood landmark; it’s the spiritual heart of what used to be the old Kami-Itabashi village. I learned that the shrine is dedicated to **Amaterasu-Omikami (天照皇大御神)**, the Sun Goddess. There’s something poetic about seeking out the deity of the sun on a cold morning when the light is just starting to filter through the canopy.
 
-Historically, this shrine served as the primary protective sanctuary (*chinjusha*) for the old Kami-Itabashi village before the area evolved into a bustling Tokyo suburb. Because it enshrines the sun goddess, worshippers come here to pray for life guidance, general well-being, family prosperity, and protection against evil spirits. The shrine is especially famous for its magnificent, centuries-old ginkgo trees that stand as silent, towering guardians of the neighborhood.
+Historically, this place served as a *chinjusha*, a protective sanctuary for the local community. Even though the village has since grown into a bustling suburb, the energy here remains fiercely protective. People come to Amaterasu for guidance and family prosperity, but for me, standing beneath the shadow of the centuries-old ginkgo trees, it felt like a place to simply find one's center. Those trees are massive—silent, towering guardians that have seen the world change while they remained rooted in the earth.
 
 ***
 
 ### 2. ⛩️ A Stroll Through the Precincts: A Personal Photo Diary
 
-Stepping off the lively streets of Kami-Itabashi into the shrine grounds is like walking into a different, much slower time zone. The long stone approach (*sando*) is beautifully shaded by an impressive canopy of old-growth trees. The unpainted, aged wood of the main hall exudes a quiet dignity, and the stone guardian dogs (*Komainu*) look particularly fierce yet welcoming. Here are some of the calming, everyday moments I captured during my visit.
+The moment I stepped onto the *sando* (the stone approach), the temperature seemed to drop another few degrees, and the scent of aged wood and damp earth filled the air. I spent a long time just listening to the rhythmic *crunch-crunch* of my boots on the gravel—the only sound in the precinct. 
+
+I found myself lingering near the main hall. The wood is unpainted and weathered, showing a quiet dignity that no modern building could ever replicate. I waited for nearly ten minutes, camera poised, for the sun to hit the face of one of the *Komainu* (guardian dogs). They look fierce, sure, but there’s a strange sense of welcome in their stone eyes. Here are a few of the frames I captured while trying to bottle up that stillness.
 
 <!-- 이미지 그리드 시작 -->
 <style>
@@ -69,13 +81,17 @@ Stepping off the lively streets of Kami-Itabashi into the shrine grounds is like
 
 ### 3. 📜 Goshuin and Shrine Items: The Elegance of Nature
 
-At the shrine office, visitors can receive a meticulously written *Goshuin*. Because of the shrine's famous ancient trees, you will often find elegant ginkgo leaf motifs incorporated into their amulets (*Omamori*) and seasonal wooden votive plaques (*Ema*). They offer a lovely "Health and Longevity" amulet, inspired by the enduring strength of the giant trees within the precincts.
+Before leaving, I made my way to the small shrine office. There’s a specific ritual to receiving a *Goshuin*—the scratch of the calligraphy pen and the rhythmic press of the red stamp—that always feels like a shared secret between the traveler and the shrine. 
+
+Because of those legendary ancient trees outside, the shrine incorporates beautiful ginkgo leaf motifs into almost everything. I couldn’t resist picking up a "Health and Longevity" amulet (*Omamori*). It’s small, elegant, and supposedly carries the enduring strength of the giant ginkgoes. Holding it in my palm, I felt like I was carrying a little piece of the shrine's resilience with me.
 
 ***
 
 ### 4. 🌃 What to See Nearby: Johoku Chuo Park
 
-If you are looking to extend your peaceful day out, take a short walk or bicycle ride to **Johoku Chuo Park (城北中央公園)**. This massive metropolitan park straddles the border of Itabashi and Nerima wards. It is famous for its broad, open lawns, athletic facilities, and the serene Shakujii River flowing along its edge. It’s the perfect place to grab a coffee from a nearby convenience store and enjoy a picnic or a leisurely stroll under the trees.
+My legs weren’t quite ready to head back to the train station yet, so I followed a local’s suggestion and wandered over to **Johoku Chuo Park (城北中央公園)**. It’s a bit of a walk, but I welcomed the extra time to clear my head. 
+
+The park is massive—a sprawling green lung right on the border of Itabashi and Nerima. I watched the Shakujii River flow lazily along the edge and eventually gave in to my cravings, grabbing a hot canned coffee from a nearby vending machine. I sat on a bench, watched a few locals jogging by, and just breathed. It’s the perfect spot for a picnic if you have the time, or just a place to exist for a while under the open sky.
 
 ***
 
@@ -91,10 +107,4 @@ If you are looking to extend your peaceful day out, take a short walk or bicycle
 
 ### ✨ Editor's Closing Remarks
 
-Visiting Kami-Itabashi Tenso Shrine felt incredibly grounding. There is a specific kind of magic in seeing a piece of untouched nature right in the middle of a dense residential area. Standing beneath the giant ginkgo trees, listening to the wind rustling through the leaves, I felt completely removed from the stress of the city. The shrine feels less like a tourist destination and more like a warm, protective embrace from the neighborhood itself. If you want to experience the quiet, authentic spirituality of everyday Tokyo, this shrine is an absolute delight.
-
-***
-
-### ♨️ Relax at a Nearby Onsen: Kotobuki-yu (寿湯)
-
-To wrap up your visit to Kami-Itabashi, I highly recommend stopping by **Kotobuki-yu**, a beloved local *sento* (public bathhouse) just a few minutes from the station. With its classic retro design, incredibly warm atmosphere, and soothing herbal baths, it provides the perfect relaxing end to a day of neighborhood exploration. Bathing here among the locals will give you a genuine taste of Tokyo's enduring "shitamachi" (downtown) community spirit.
+My time at Kami-Itabashi Tenso Shrine felt incredibly grounding. In a city that often feels like it's moving at a thousand miles per hour, finding a pocket of untouched nature and ancient spirituality is a gift. Standing beneath those ginkgo trees, listening to the wind rustle the leaves, the urban stress just... evaporated. It didn't feel like I was a tourist looking at a relic; it felt like I was being welcomed into the neighborhood's own protective embrace. If you’re looking for the authentic, quiet soul of Tokyo, you’ll find it here.
