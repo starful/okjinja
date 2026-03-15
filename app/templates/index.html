@@ -1,12 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- 1. Performance Optimization (Preconnect) -->
+    <!-- 1. Performance Optimization -->
     <link rel="preconnect" href="https://maps.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="dns-prefetch" href="https://res.cloudinary.com">
-    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
-    <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,11 +12,14 @@
     <link rel="canonical" href="https://okjinja.com" />
 
     <!-- 2. SEO & Meta Tags -->
-    <!-- 이제 정식 도메인이니 로봇 수집 차단(noindex) 태그를 삭제하거나 주석 처리하세요! -->
+    <!-- 정식 도메인이므로 로봇 수집 차단 태그는 삭제/주석 처리 -->
     <!-- <meta name="robots" content="noindex, nofollow"> -->
 
     <title>OKJinja - Discover Japan's Hidden Sacred Spots</title>
     <meta name="description" content="Explore hidden shrines and power spots in Japan. Find your luck in Wealth, Love, Health, and Success with our interactive map guide.">
+    <meta name="keywords" content="Japan Shrine, Tokyo Power Spot, Jinja Map, Shinto Shrine, Omamori, Goshuin, Japan Travel Guide">
+    <meta name="author" content="OKJinja Project">
+    <meta name="theme-color" content="#d35400">
     
     <!-- Open Graph (대표 도메인 적용) -->
     <meta property="og:type" content="website">
@@ -33,13 +33,15 @@
     <link rel="icon" href="/static/images/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="/static/css/style.css">
 
-    <!-- 3. Analytics & AdSense (Async Loading) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1SWMP4KC55"></script>
+    <!-- 3. Analytics (새로 발급받은 Google Analytics 4 코드 적용) -->
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NZE8KSDC7X"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'G-1SWMP4KC55');
+
+      gtag('config', 'G-NZE8KSDC7X');
     </script>
     
     <!-- Confetti Effect -->
@@ -62,11 +64,10 @@
 
     <header>
         <div class="container">
-            <!-- 로고 영역: 중복 제거 및 logo.svg 사용 -->
+            <!-- 로고: logo.svg 사용 -->
             <h1>
                 <a href="/">
-                    <!-- logo.svg 파일이 static/images/ 폴더에 있다고 가정합니다 -->
-                    <img src="/static/images/OkJinjaLogo_Vertical.png" alt="OKJinja" class="logo-img" style="height: 100px; width: auto; display: block; margin: 0 auto;">
+                    <img src="/static/images/logo.svg" alt="OKJinja" class="logo-img" style="height: 100px; width: auto; display: block; margin: 0 auto;">
                 </a>
             </h1>
 
@@ -145,7 +146,7 @@
         </div>
     </div>
 
-    <!-- Scripts: Module first, then Google Maps -->
+    <!-- Scripts -->
     <script>
     (g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})({
         key: "AIzaSyAdSBZ7iPkFtKIcWRuJV04HIeDs7tUzamE",

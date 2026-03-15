@@ -3,13 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://okjinja.com/shrine/{{ post.id }}" />
-    <title>{{ post.title }} - OkJinja</title>
-    <!-- 애드센스 스크립트 (유지) -->
+    
+    <!-- SEO & Canonical (대표 주소) -->
+    <title>{{ post.title }} - OKJinja</title>
     <meta name="description" content="{{ post.summary }}">
+    <link rel="canonical" href="https://okjinja.com/shrine/{{ post.id }}" />
+
+    <!-- Analytics (새로 발급받은 Google Analytics 4 코드 적용) -->
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NZE8KSDC7X"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-NZE8KSDC7X');
+    </script>
+
     <link rel="stylesheet" href="/static/css/style.css">
     <style>
-        /* 스타일 그대로 유지 */
         .detail-container { max-width: 800px; margin: 0 auto; padding: 20px; background: #fff; }
         .detail-header { text-align: center; margin-bottom: 40px; }
         .detail-title { font-size: 2rem; margin-bottom: 10px; color: #333; }
@@ -24,7 +36,9 @@
 <body>
     <div class="container">
         <header style="padding: 20px;">
-            <a href="/"><img src="/static/images/OkJinjaLogo_Horizontal.png" alt="Logo" style="height: 40px;"></a>
+            <a href="/">
+                <img src="/static/images/logo.svg" alt="OKJinja" style="height: 60px; display: block; margin: 0 auto;">
+            </a>
         </header>
 
         <article class="detail-container">
@@ -42,7 +56,6 @@
             </div>
 
             <div style="text-align: center;">
-                <!-- [변경] 돌아가기 버튼 영어로 -->
                 <a href="/" class="back-btn">🗺️ Back to Map</a>
             </div>
         </article>
