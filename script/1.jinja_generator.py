@@ -192,7 +192,7 @@ humanized: true
 # --- 5. 메인 실행 ---
 if __name__ == "__main__":
     # 생성 개수 설정 (필요에 따라 변경)
-    TARGET_COUNT = 5
+    TARGET_COUNT = 2
 
     logging.info(f"🚀 Generator Started (Target: {TARGET_COUNT})")
 
