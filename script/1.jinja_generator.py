@@ -133,13 +133,24 @@ def save_to_markdown(title, content, row_data, filename_slug):
 
     image_path = f"/content/images/{filename_slug}.webp"
 
-    # ✅ image_prompt 추가: Imagen 4용 신사 실사 프롬프트
+    # ✅ image_prompt: 카테고리/지역별 특성을 반영한 맞춤 프롬프트
     shrine_display = title.replace('"', '')
+    region_en = region_match.group(1) if region_match else "Japan"
+
+    category_features = {
+        'Wealth': "golden koban coin offerings, rows of vermilion torii gates, fox (kitsune) statues draped in red bibs",
+        'Love':   "heart-shaped ema wishing plaques, enmusubi red thread, romantic stone couple statues, pink flowers",
+        'Health': "sacred healing spring water, ancient zelkova trees, medicinal herb garden, serene pond",
+        'Success':"ume plum blossom trees, rows of student ema wishing plaques, ancient scholarly wooden halls",
+        'Safety': "powerful guardian lion-dog (komainu) statues, giant shimenawa sacred rope, protective stone walls",
+        'History':"ancient weathered wooden architecture, deeply moss-covered stone lanterns, centuries-old cedar forest",
+    }
+    features = category_features.get(eng_cat, "traditional Shinto torii gates, stone lanterns, ancient sacred forest")
+
     image_prompt = (
-        f"A breathtaking photorealistic view of {shrine_display} Japanese Shinto shrine in {region_raw}, "
-        f"traditional vermilion torii gates, ancient stone lanterns lining the path, "
-        f"towering cedar and pine trees, sacred gravel pathway, soft morning mist, "
-        f"atmospheric golden light filtering through the trees, no people"
+        f"A breathtaking photorealistic view of {shrine_display} Shinto shrine in {region_en}, Japan. "
+        f"Key visual elements: {features}. "
+        f"No people, sacred serene atmosphere, cinematic professional travel photography."
     )
 
     md_content = f"""---
@@ -170,7 +181,7 @@ humanized: true
 
 # --- 5. 메인 실행 ---
 if __name__ == "__main__":
-    TARGET_COUNT = 10
+    TARGET_COUNT = 2
 
     logging.info(f"🚀 Generator Started (Target: {TARGET_COUNT})")
 
